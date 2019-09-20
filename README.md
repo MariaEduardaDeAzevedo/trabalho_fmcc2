@@ -1,10 +1,10 @@
-#CODIGOS ACERCA DA TEMÁTICA DO TRABALHO DE FMCC2#
+# CODIGOS ACERCA DA TEMÁTICA DO TRABALHO DE FMCC2
 
-####Algumas ideias e testes que fiz sobre a aplicação dos números _p-ádicos_ em programas Python####
+#### Algumas ideias e testes que fazem sobre a aplicação de números _em áticos_ em programas Python
 
-#####O que foi implementado#####
+##### O que foi implementado
 
-- Classe Codon: simula um códon e tem métodos que geram números _p-ádicos_ para a estrutura
-- Classe DNA: simula uma dupla-hélice de DNA
-- Programa imperativo para gerar um numero _p-ádico_, seu congruente e o anti-códon referentes a um códon dado de entrada
+-   Código de classe: simula um código e tem métodos que geram números _p-ádicos_ para a estrutura
+-   DNA Classe: simula uma dupla hélice de DNA
+-   Programa imperativo para gerar um número _numérico_ , seu congruente e o anti-código relacionado a um código de entrada
 
