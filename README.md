@@ -2,7 +2,7 @@
 
 ####Algumas ideias e testes que fiz sobre a aplicação dos números _p-ádicos_ em programas Python####
 
-######O que foi implementado######
+#####O que foi implementado#####
 
 - Classe Codon: simula um códon e tem métodos que geram números _p-ádicos_ para a estrutura
 - Classe DNA: simula uma dupla-hélice de DNA
