@@ -45,4 +45,9 @@ class Codon:
         
         return Codon(anti[0], anti[1], anti[2])
 
+    def is_anti_codon(self, codon):
 
+       if self.p_adic_numerico() + codon.p_adic_numerico() == 155:
+           return True
+       
+       return False
